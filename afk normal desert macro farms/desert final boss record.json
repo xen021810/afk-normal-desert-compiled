@@ -1,0 +1,44 @@
+{
+    "1": {
+        "hotkey": 53,
+        "hotkeyAlt": false,
+        "hotkeyCtrl": false,
+        "hotkeyShift": false,
+        "name": "tower",
+        "pitch": 1.49225652217865,
+        "position": {
+            "x": -26.45901107788086,
+            "y": -920.9095458984375,
+            "z": -1.1119685173034668
+        },
+        "yaw": 4.75752592086792
+    },
+    "2": {
+        "hotkey": 54,
+        "hotkeyAlt": false,
+        "hotkeyCtrl": false,
+        "hotkeyShift": false,
+        "name": "interact",
+        "pitch": -0.00417147995904088,
+        "position": {
+            "x": -25.988929748535156,
+            "y": -952.3174438476563,
+            "z": -29.282934188842773
+        },
+        "yaw": 4.765735149383545
+    },
+    "3": {
+        "hotkey": 55,
+        "hotkeyAlt": false,
+        "hotkeyCtrl": false,
+        "hotkeyShift": false,
+        "name": "push",
+        "pitch": 0.01301333587616682,
+        "position": {
+            "x": -27.96827507019043,
+            "y": -982.5011596679688,
+            "z": -10.271016120910645
+        },
+        "yaw": 4.7238569259643555
+    }
+}

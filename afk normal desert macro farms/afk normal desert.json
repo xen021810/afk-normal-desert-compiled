@@ -1,0 +1,480 @@
+{
+    "aimbotSettings": {
+        "boneSelection": 0
+    },
+    "general": {
+        "Camera Collision": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Clone": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 1.0
+        },
+        "FOV": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 160.0
+        },
+        "FOV Model": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 1.0
+        },
+        "Game Speed": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 9000.0
+        },
+        "Game Speed Client": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 10.0
+        },
+        "Guardian Size": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 40.0
+        },
+        "Object Scaling": {
+            "enabled": false,
+            "stringValue": "1.0",
+            "value": 1.0
+        }
+    },
+    "misc": {
+        "3rd Person": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "AFK Kick": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "API DMG": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Damage Multiplier": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 1.0
+        },
+        "Entity Health": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Freeze Timers": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "God Mode": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 2.0
+        },
+        "Icarus Dash": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Immune Aura": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Immune Bosses": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Infinite Abilities": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Infinite Ammo": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Infinite Heat": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Instant Fusion Charge": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Instant Respawn": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Interact Range": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Interact Speed": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Joining Allies": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Kill Aura": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Lobby Crasher": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "OPK": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 5.0
+        },
+        "RGB": {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Rapid Fire": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 1.0
+        },
+        "Revive Tokens": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Shoot Through": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Shotgun Spread": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Solo": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 1.0
+        },
+        "Sound": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Sparrow Anywhere": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Sparrow Boost": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Stacks": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 100.0
+        },
+        "Sword Ammo": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Turn Back": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Zero Timers": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        }
+    },
+    "player": {
+        "Auto Noclip": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Blink Teleport": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Blink Teleport Distance": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 5.0
+        },
+        "Bunnyhop": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Bunnyhop Speed": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 25.0
+        },
+        "Fly Down Key": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Fly Hack": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Fly Mode": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 1.0
+        },
+        "Fly Speed": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 1000.0
+        },
+        "Fly Up Key": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Freecam": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Freecam Speed": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 50.0
+        },
+        "Freecam TP": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "KYS": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Noclip": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        }
+    },
+    "pvp": {
+        "Aimbot": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Aimbot Bone": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Aimbot FOV": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 5.0
+        },
+        "Aimbot Hotkey": {
+            "enabled": true,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Aimbot Smoothing": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Body Kill Shot": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Box": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Box ESP Color": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Corner Box": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Distance": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Distance Color": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "ESP": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Health": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Infinite Abilities No Super": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Lines Thickness": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 1.0
+        },
+        "Matchmaking List": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "No Flinch": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "No Recoil": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Player Names": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Player Names Color": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Show FOV Circle": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Silent Aim Off": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Silent Aim On": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Skeleton": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Skeleton ESP Color": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Spinbot": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "TP To Player": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Tracelines": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Tracelines Color": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        },
+        "Visibility Check": {
+            "enabled": false,
+            "stringValue": "",
+            "value": 0.0
+        }
+    },
+    "teleportSettings": {
+        "tpOverlayEnabled": false,
+        "usePitchYawForTeleports": true
+    },
+    "worldModulationBrightness": 0.0,
+    "worldModulationRgbColor1": [
+        1.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "worldModulationRgbColor2": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+    ],
+    "worldModulationRgbColor3": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+    ],
+    "worldModulationRgbCycleEnabled": false,
+    "worldModulationRgbFullSpectrum": false,
+    "worldModulationRgbSpeed": 1.0
+}
